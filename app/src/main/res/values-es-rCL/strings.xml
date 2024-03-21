@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiPrimeraAplicaciónDio</string>
+    <string name="hello_world">¡Hola mundo!</string>
+    <string name="app_description">Proyecto simple para demostrar la internacionalización de aplicaciones.</string>
+</resources>

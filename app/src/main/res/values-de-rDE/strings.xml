@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeinErsteDio-App</string>
+    <string name="hello_world">Hallo, Welt!</string>
+    <string name="app_description">Einfaches Projekt zur Demonstration der App-Internationalisierung</string>
+</resources>

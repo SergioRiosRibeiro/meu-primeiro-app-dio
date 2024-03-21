@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="hello_world">Olá, mundo!</string>
+    <string name="app_description">Projeto simples para demonstrar internacionalização de apps</string>
+</resources>
